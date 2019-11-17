@@ -2,4 +2,4 @@ import hello
 
 
 def test_says_world():
-    assert 'world' == 'world'
+    assert 1 == 1
